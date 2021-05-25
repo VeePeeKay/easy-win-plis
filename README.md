@@ -1,1 +1,1 @@
-# plis-easy-win
+# easy-win-plis
